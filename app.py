@@ -11,3 +11,4 @@ def submit():
     return render_template("success.html", name=name)
 if __name__ == '__main__':
     app.run(debug=True)
+# Week 3 - Updated registration application
